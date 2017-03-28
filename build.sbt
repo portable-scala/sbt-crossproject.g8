@@ -1,4 +1,4 @@
-import sbtcross.{crossProject, CrossType}
+import sbtcrossproject.CrossPlugin.autoImport.crossProject
 
 lazy val bar = crossProject(JSPlatform, JVMPlatform, NativePlatform)
   .settings(scalaVersion := "2.11.8")

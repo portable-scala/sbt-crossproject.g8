@@ -1,4 +1,4 @@
-# sbt-cross example
+# sbt-crossproject example
 
 This is an example on how to cross compile code to Scala.js and Scala JVM.
 
@@ -10,4 +10,4 @@ barJVM/run
 barJS/run
 ```
 
-More information can be found in the [sbt-cross project](https://github.com/scala-native/sbt-cross#sbt-cross) and in the [scripted tests](https://github.com/scala-native/sbt-cross/tree/master/sbt-cross-test/src/sbt-test)
+More information can be found in the [sbt-crossproject project](https://github.com/scala-native/sbt-crossproject#sbt-crossproject) and in the [scripted tests](https://github.com/scala-native/sbt-crossproject/tree/master/sbt-crossproject-test/src/sbt-test)
