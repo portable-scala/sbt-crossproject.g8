@@ -1,13 +1,15 @@
-# sbt-crossproject example
-
-This is an example on how to cross compile code to Scala.js and Scala JVM.
-
-To try it out, launch `sbt` and type:
+This is a simple [Giter8][g8] template for sbt-crossproject.
 
 ```
-barNative/run
-barJVM/run
-barJS/run
+sbt new scala-native/sbt-cross-project.g8
 ```
 
-More information can be found in the [sbt-crossproject project](https://github.com/scala-native/sbt-crossproject#sbt-crossproject) and in the [scripted tests](https://github.com/scala-native/sbt-crossproject/tree/master/sbt-crossproject-test/src/sbt-test)
+License
+-------
+Written in 2017 by EPFL.
+To the extent possible under law, the author(s) have dedicated all copyright and
+related and neighboring rights to this template to the public domain worldwide.
+This template is distributed without any warranty. See
+<http://creativecommons.org/publicdomain/zero/1.0/>.
+
+[g8]: http://www.foundweekends.org/giter8/
