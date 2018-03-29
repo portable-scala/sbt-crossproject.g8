@@ -1,7 +1,7 @@
 This is a simple [Giter8][g8] template for sbt-crossproject.
 
 ```
-sbt new scala-native/sbt-crossproject.g8
+sbt new portable-scala/sbt-crossproject.g8
 ```
 
 License
